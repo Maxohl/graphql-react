@@ -2,11 +2,11 @@
 
 Run the following in both main folder and frontend:
 
-**Install all dependencies
+**Install all dependencies**
 
 npm install
 
-**Run the server
+**Run the server**
 
 npm start
 
