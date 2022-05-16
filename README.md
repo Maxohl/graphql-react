@@ -1,5 +1,7 @@
 # graphql-react
 
+A small project about creating and booking events.
+
 Run the following in both main folder and frontend:
 
 **Install all dependencies**
